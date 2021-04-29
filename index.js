@@ -16,8 +16,9 @@ function bubble_Sort(arr) {
     return arr;
 }
 
-console.log(bubble_Sort([9,8,-1,4,-5,6]));
+console.log(bubble_Sort([9,8,-1,4,-5,6]))
 
 var demo = document.getElememtById('demo');
+console.log(demo);
 
 
