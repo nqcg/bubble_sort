@@ -21,4 +21,7 @@ console.log(bubble_Sort([9,8,-1,4,-5,6]))
 var demo = document.getElememtById('demo');
 console.log(demo);
 
+var number = 1;
+console.log(number);
+
 
